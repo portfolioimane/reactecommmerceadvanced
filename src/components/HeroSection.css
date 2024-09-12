@@ -1,0 +1,8 @@
+/* src/components/HeroSection.css */
+.hero {
+    background: url('/src/images/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+}
+.hero-content {
+    padding: 100px 0;
+}
